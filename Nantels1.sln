@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nantels1", "Nantels1.csproj", "{24050B31-818A-461E-91CE-C438129CC041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovePicture", "..\MovePicture\MovePicture.csproj", "{7720FDEB-6C1A-4E6C-9686-982CE1D88BB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalWidthHeight", "..\CalWidthHeight\CalWidthHeight.csproj", "{3D47F6B7-24FA-4742-BFCE-7F1806341753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputTest", "..\..\..\..\workspace\mytest\InputTest\InputTest.csproj", "{A6AB9DDC-12FF-4121-A3F1-3A3386C43EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24050B31-818A-461E-91CE-C438129CC041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24050B31-818A-461E-91CE-C438129CC041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24050B31-818A-461E-91CE-C438129CC041}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{24050B31-818A-461E-91CE-C438129CC041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24050B31-818A-461E-91CE-C438129CC041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24050B31-818A-461E-91CE-C438129CC041}.Release|x86.ActiveCfg = Release|Any CPU
+		{7720FDEB-6C1A-4E6C-9686-982CE1D88BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7720FDEB-6C1A-4E6C-9686-982CE1D88BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7720FDEB-6C1A-4E6C-9686-982CE1D88BB1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7720FDEB-6C1A-4E6C-9686-982CE1D88BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7720FDEB-6C1A-4E6C-9686-982CE1D88BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7720FDEB-6C1A-4E6C-9686-982CE1D88BB1}.Release|x86.ActiveCfg = Release|Any CPU
+		{3D47F6B7-24FA-4742-BFCE-7F1806341753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D47F6B7-24FA-4742-BFCE-7F1806341753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D47F6B7-24FA-4742-BFCE-7F1806341753}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3D47F6B7-24FA-4742-BFCE-7F1806341753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D47F6B7-24FA-4742-BFCE-7F1806341753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D47F6B7-24FA-4742-BFCE-7F1806341753}.Release|x86.ActiveCfg = Release|Any CPU
+		{A6AB9DDC-12FF-4121-A3F1-3A3386C43EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6AB9DDC-12FF-4121-A3F1-3A3386C43EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6AB9DDC-12FF-4121-A3F1-3A3386C43EA5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A6AB9DDC-12FF-4121-A3F1-3A3386C43EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6AB9DDC-12FF-4121-A3F1-3A3386C43EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6AB9DDC-12FF-4121-A3F1-3A3386C43EA5}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
